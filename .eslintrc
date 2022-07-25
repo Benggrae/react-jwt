@@ -1,0 +1,9 @@
+{
+  "plugins": ["import", "react"],
+  "extends": ["airbnb-base", "plugin:import/recommended", "plugin:react/recommended"],
+  "rules": {
+    "no-console": "error",
+    "import/prefer-default-export": "error"
+  
+  }
+}
